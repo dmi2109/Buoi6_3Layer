@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE72617-6406-42DA-9A0B-D61FBD7D54C9}|GUI\\GUI.csproj|c:\\users\\maidi\\onedrive\\desktop\\mai di\u1EC7u mi\\l\u1EADp tr\u00ECnh tr\u00EAn mt window\\buoi06\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE72617-6406-42DA-9A0B-D61FBD7D54C9}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE72617-6406-42DA-9A0B-D61FBD7D54C9}|GUI\\GUI.csproj|C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AE72617-6406-42DA-9A0B-D61FBD7D54C9}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE72617-6406-42DA-9A0B-D61FBD7D54C9}|GUI\\GUI.csproj|c:\\users\\maidi\\onedrive\\desktop\\mai di\u1EC7u mi\\l\u1EADp tr\u00ECnh tr\u00EAn mt window\\buoi06\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE72617-6406-42DA-9A0B-D61FBD7D54C9}|GUI\\GUI.csproj|solutionrelative:gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwEkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:50:37.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAYwGgBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:34:29.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\maidi\\OneDrive\\Desktop\\Mai Di\u1EC7u Mi\\L\u1EADp Tr\u00ECnh Tr\u00EAn MT Window\\Buoi06\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:04:24.925Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

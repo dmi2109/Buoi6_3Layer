@@ -267,9 +267,9 @@ namespace GUI
                 return;
             }
             var result = MessageBox.Show("Bạn có chắc chắn muốn xóa sinh viên này không?",
-                                        "Xác nhận xóa",
-                                        MessageBoxButtons.YesNo,
-                                        MessageBoxIcon.Question);
+                            "Xác nhận xóa",
+                            MessageBoxButtons.YesNo,
+                            MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
                 try
@@ -278,8 +278,15 @@ namespace GUI
                     if (student != null)
                     {
                         studentService.DeleteStudent(txtStudentID.Text); // Delete student from database
-                        UpdateStudentList();
 
+                        // Optionally, delete the student's avatar image if it exists
+                        string avatarPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images", $"{student.StudentID}.jpg");
+                        if (File.Exists(avatarPath))
+                        {
+                            File.Delete(avatarPath); // Remove avatar image
+                        }
+
+                        UpdateStudentList();
                         MessageBox.Show("Xóa dữ liệu thành công!");
                     }
                     else
